@@ -1,0 +1,19 @@
+C:\Users\mohan\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\teachers edting.exe
+C:\Users\mohan\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\teachers edting.deps.json
+C:\Users\mohan\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\teachers edting.runtimeconfig.json
+C:\Users\mohan\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\teachers edting.dll
+C:\Users\mohan\source\repos\WinFormsApp1\bin\Debug\net6.0-windows\teachers edting.pdb
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers edting.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form2.resources
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers_edting.Properties.Resources.resources
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers edting.csproj.GenerateResource.cache
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers edting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers edting.AssemblyInfoInputs.cache
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers edting.AssemblyInfo.cs
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers edting.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers edting.dll
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\refint\teachers edting.dll
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers edting.pdb
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\teachers edting.genruntimeconfig.cache
+C:\Users\mohan\source\repos\WinFormsApp1\obj\Debug\net6.0-windows\ref\teachers edting.dll
